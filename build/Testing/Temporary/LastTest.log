@@ -1,0 +1,189 @@
+Start testing: Aug 29 03:02 IST
+----------------------------------------------------------
+1/1 Testing: HyperPlaneTests
+1/1 Test: HyperPlaneTests
+Command: "/home/martian/c++_/hyper_plane/build/test_runner"
+Directory: /home/martian/c++_/hyper_plane/build
+"HyperPlaneTests" start time: Aug 29 03:02 IST
+Output:
+----------------------------------------------------------
+==============================
+     N-D VECTOR LIBRARY TESTS
+==============================
+
+[PASS] Point Construction
+[PASS] Point Vector Construction
+[PASS] Point Indexing
+[PASS] Point Const Indexing
+[PASS] Point Invalid Index
+[PASS] Point Iteration
+[PASS] Point Dimensions
+[PASS] Point Unary Minus
+[PASS] Addition
+[PASS] Subtraction
+[PASS] Multiplication
+[PASS] Division
+[PASS] Modulo
+[PASS] Addition Dimension Mismatch
+[PASS] Subtraction Dimension Mismatch
+[PASS] Multiplication Dimension Mismatch
+[PASS] Division Dimension Mismatch
+[PASS] Modulo Dimension Mismatch
+[PASS] Division By Zero
+[PASS] Modulo By Zero
+[PASS] Scalar Addition
+[PASS] Scalar Subtraction
+[PASS] Scalar Multiplication
+[PASS] Scalar Division
+[PASS] Scalar Modulo
+[PASS] Scalar Division By Zero
+[PASS] Scalar Modulo By Zero
+[PASS] Greater Than
+[PASS] Less Than
+[PASS] Equal To
+[PASS] Not Equal To
+[PASS] Greater Than Or Equal
+[PASS] Less Than Or Equal
+[PASS] Comparison Dimension Mismatch
+[PASS] Point To Point Distance
+[PASS] Point To Origin Distance
+[PASS] Manhattan Distance
+[PASS] Chebyshev Distance
+[PASS] Minkowski Distance
+[PASS] Minkowski Manhattan
+[PASS] Minkowski Invalid Parameter
+[PASS] L1 Norm
+[PASS] L2 Norm
+[PASS] LInf Norm
+[PASS] Lp Norm
+[PASS] Lp Invalid Parameter
+[PASS] Hyperplane Distance
+[PASS] Hyperplane Zero Normal
+[PASS] Distance Dimension Mismatch
+[PASS] Dot Product
+[PASS] Dot Product Dimension Mismatch
+[PASS] Magnitude
+[PASS] N-D Magnitude
+[PASS] Normalization
+[PASS] Normalization Zero Vector
+[PASS] Angle
+[PASS] Angle Same Direction
+[PASS] Angle Opposite Direction
+[PASS] Angle Zero Vector
+[PASS] Projection
+[PASS] N-D Projection
+[PASS] Projection Zero Vector
+[PASS] Rejection
+[PASS] N-D Rejection
+[PASS] Direction
+[PASS] Direction Identical Points
+[PASS] Vector Dimension Mismatch
+[PASS] Translation
+[PASS] Translation Dimension Mismatch
+[PASS] Uniform Scaling
+[PASS] Non-Uniform Scaling
+[PASS] Non-Uniform Scaling Dimension Mismatch
+[PASS] Reflection Origin
+[PASS] Reflection Dimension
+[PASS] Reflection First Dimension
+[PASS] Reflection Last Dimension
+[PASS] Reflection Invalid Dimension
+[PASS] 2D Rotation
+[PASS] 2D Rotation 180
+[PASS] 3D XY Rotation
+[PASS] 3D XZ Rotation
+[PASS] 3D YZ Rotation
+[PASS] Rotation Same Dimension
+[PASS] Rotation Invalid Dimension
+[PASS] Aggregate Sum
+[PASS] Aggregate Sum Negative
+[PASS] Aggregate Product
+[PASS] Aggregate Product Zero
+[PASS] Aggregate Min
+[PASS] Aggregate Max
+[PASS] Aggregate Mean
+[PASS] Aggregate Mean Fraction
+[PASS] Aggregate Decimal Values
+[PASS] Function Abs
+[PASS] Function Sqrt
+[PASS] Function Cbrt
+[PASS] Function Pow
+[PASS] Function Exp
+[PASS] Function Log
+[PASS] Function Log10
+[PASS] Function Sin
+[PASS] Function Cos
+[PASS] Function Tan
+[PASS] Function Asin
+[PASS] Function Acos
+[PASS] Function Atan
+[PASS] Function Floor
+[PASS] Function Ceil
+[PASS] Function Round
+[PASS] Is Zero
+[PASS] Is Not Zero
+[PASS] Is Unit
+[PASS] Is Unit N-D
+[PASS] Is Not Unit
+[PASS] Is Parallel
+[PASS] Is Parallel Opposite
+[PASS] Is Not Parallel
+[PASS] Parallel Dimension Mismatch
+[PASS] Parallel Zero Vector
+[PASS] Is Perpendicular
+[PASS] Is Perpendicular N-D
+[PASS] Is Not Perpendicular
+[PASS] Perpendicular Dimension Mismatch
+[PASS] Append Coordinate
+[PASS] Prepend Coordinate
+[PASS] Insert Coordinate Middle
+[PASS] Insert Coordinate Beginning
+[PASS] Insert Coordinate End
+[PASS] Insert Coordinate Invalid
+[PASS] Remove Coordinate Middle
+[PASS] Remove Coordinate Beginning
+[PASS] Remove Coordinate End
+[PASS] Remove Coordinate Invalid
+[PASS] Concatenate
+[PASS] Concatenate Empty
+[PASS] Operator Addition
+[PASS] Operator Subtraction
+[PASS] Operator Multiplication
+[PASS] Operator Division
+[PASS] Operator Modulo
+[PASS] Operator Scalar Addition
+[PASS] Operator Scalar Subtraction
+[PASS] Operator Scalar Multiplication
+[PASS] Operator Scalar Division
+[PASS] Operator Scalar Modulo
+[PASS] Operator Unary Minus
+[PASS] Operator Unary Plus
+[PASS] Operator Plus Equals
+[PASS] Operator Minus Equals
+[PASS] Operator Multiply Equals
+[PASS] Operator Divide Equals
+[PASS] Operator Modulo Equals
+[PASS] Operator Scalar Plus Equals
+[PASS] Operator Scalar Minus Equals
+[PASS] Operator Scalar Multiply Equals
+[PASS] Operator Scalar Divide Equals
+[PASS] Operator Scalar Modulo Equals
+[PASS] Operator Division By Zero
+[PASS] Operator Scalar Division By Zero
+
+==============================
+Total : 159
+Passed: 159
+Failed: 0
+==============================
+
+All tests passed! ✓
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"HyperPlaneTests" end time: Aug 29 03:02 IST
+"HyperPlaneTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Aug 29 03:02 IST
