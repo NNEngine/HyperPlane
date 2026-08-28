@@ -291,8 +291,8 @@ HyperPlane uses **CMake**.
 ### Clone
 
 ```bash
-git clone <repository-url>
-cd hyper_plane
+git clone https://github.com/NNEngine/HyperPlane.git
+cd HyperPlane
 ```
 
 ### Configure
